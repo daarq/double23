@@ -2,9 +2,9 @@
   "name": "game",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrable.js",
   "scripts": {
-    "start": "webpack-dev-server ./src/bundle.js"
+    "start": "webpack-dev-server ./src/scrable.js"
   },
   "author": "",
   "license": "ISC",
